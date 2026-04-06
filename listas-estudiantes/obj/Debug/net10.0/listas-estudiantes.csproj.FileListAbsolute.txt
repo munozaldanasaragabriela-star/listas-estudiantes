@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\bin\Debug\net10.0\listas-estudiantes.exe
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\bin\Debug\net10.0\listas-estudiantes.deps.json
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\bin\Debug\net10.0\listas-estudiantes.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\bin\Debug\net10.0\listas-estudiantes.dll
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\bin\Debug\net10.0\listas-estudiantes.pdb
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.dll
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\refint\listas-estudiantes.dll
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.pdb
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\ref\listas-estudiantes.dll
