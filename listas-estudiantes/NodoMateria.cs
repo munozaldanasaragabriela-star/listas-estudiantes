@@ -1,13 +1,19 @@
 namespace SistemaEstudiantes
 {
-    public class NodoMateria
+    public class Materia
     {
-        public Materia Dato { get; set; }
-        public NodoMateria Siguiente { get; set; }
-        public NodoMateria(Materia dato)
+        public string Nombre { get; set; }
+        public double Nota { get; set; }
+
+        public Materia(string nombre, double nota = 0.0)
         {
-            Dato = dato;
-            Siguiente = null;
+            Nombre = nombre;
+            Nota = nota;
+        }
+
+        public override string ToString()
+        {
+            return $"{Nombre} - Nota: {Nota:F2}";
         }
     }
 }

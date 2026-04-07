@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debu
 C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.pdb
 C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.genruntimeconfig.cache
 C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\ref\listas-estudiantes.dll
+C:\Users\User\OneDrive\Documentos\listas-estudiantes\listas-estudiantes\obj\Debug\net10.0\listas-estudiantes.sourcelink.json
