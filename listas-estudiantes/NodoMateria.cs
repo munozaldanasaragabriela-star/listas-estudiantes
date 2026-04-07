@@ -1,19 +1,15 @@
+// Nodo de la lista enlazada de materias
 namespace SistemaEstudiantes
 {
-    public class Materia
+    public class NodoMateria
     {
-        public string Nombre { get; set; }
-        public double Nota { get; set; }
+        public Materia Dato { get; set; }
+        public NodoMateria Siguiente { get; set; }
 
-        public Materia(string nombre, double nota = 0.0)
+        public NodoMateria(Materia dato)
         {
-            Nombre = nombre;
-            Nota = nota;
-        }
-
-        public override string ToString()
-        {
-            return $"{Nombre} - Nota: {Nota:F2}";
+            Dato = dato;
+            Siguiente = null;
         }
     }
 }
